@@ -16,7 +16,7 @@ const courses = [
             { name: 'discussion 5 (spin one-half, photon polarization).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 5 (spin one-half, photon polarization).pdf' },
             { name: 'discussion 6 (spin one-half rotations).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 5 (spin one-half, photon polarization).pdf' },
             { name: 'discussion 7 (position and momentum operators).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 7 (position and momentum operators).pdf' },
-            { name: 'discussion 8 (momentum).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 8 (momentum).pdf' },
+            { name: 'discussion 8 (momentum).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 8 (momentum).pdf' },
             { name: 'discussion 9 (harmonic oscillator).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 9 (harmonic oscillator).pdf' },
             { name: 'discussion 10 (1D scattering).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 10 (1D scattering).pdf' },
             { name: 'discussion 11 (Quantum Mechanics in 3D).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 11 (Quantum Mechanics in 3D).pdf' },
