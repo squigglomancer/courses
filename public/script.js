@@ -77,27 +77,30 @@ const courses = [
 
 
 
-    {
-      id: 'course-138',
-      title: 'Advanced Quantum Mechanics',
-      code: '138',
-      term: 'Fall 2023',
-      sections: [
-        {
-          title: 'Lecture notes',
-          zipUrl: '/assets/aqm/lectures.zip',
-          files: [
-            { name: 'lecture_1.pdf', url: '/assets/aqm/lecture_1.pdf' },
-            { name: 'lecture_2.pdf', url: '/assets/aqm/lecture_2.pdf' }
-          ]
-        }
-      ]
-    }
+    // {
+    //   id: 'course-138',
+    //   title: 'Advanced Quantum Mechanics',
+    //   code: '138',
+    //   term: 'Fall 2023',
+    //   sections: [
+    //     {
+    //       title: 'Lecture notes',
+    //       zipUrl: '/assets/aqm/lectures.zip',
+    //       files: [
+    //         { name: 'lecture_1.pdf', url: '/assets/aqm/lecture_1.pdf' },
+    //         { name: 'lecture_2.pdf', url: '/assets/aqm/lecture_2.pdf' }
+    //       ]
+    //     }
+    //   ]
+    // }
+
+
+
   ];
 
 
 
-  
+
   
   // Function to create a course element
   function createCourse(courseData) {
