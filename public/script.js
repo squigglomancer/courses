@@ -14,7 +14,7 @@ const courses = [
             { name: 'discussion 2 and 3 (linear algebra).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 2 and 3 (linear algebra).pdf' },
             { name: 'discussion 4 (spin one-half problem set).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 4 (spin one-half problem set).pdf' },
             { name: 'discussion 5 (spin one-half, photon polarization).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 5 (spin one-half, photon polarization).pdf' },
-            { name: 'discussion 6 (spin one-half rotations).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 5 (spin one-half, photon polarization).pdf' },
+            { name: 'discussion 6 (spin one-half rotations).pdf', url: 'public/assets/downloadables/137a/discussions/discussion 6 (spin one-half rotations).pdf' },
             { name: 'discussion 7 (position and momentum operators).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 7 (position and momentum operators).pdf' },
             { name: 'discussion 8 (momentum).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 8 (momentum).pdf' },
             { name: 'discussion 9 (harmonic oscillator).pdf', url: 'public/assets/downloadables/137a/discussions/Discussion 9 (harmonic oscillator).pdf' },
